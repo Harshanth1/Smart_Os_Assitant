@@ -1,0 +1,7 @@
+{
+  "name": "SmartOS Assistant",
+  "description": "A voice and chat-based AI assistant that transforms natural language commands into executable system tasks, enabling hands-free, intelligent automation on a user's OS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
