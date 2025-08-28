@@ -3,7 +3,6 @@
     SmartOS is an intelligent voice and chat-based AI assistant that transforms natural language commands into executable system tasks, enabling hands-free, intelligent automation on your operating system.
 
     ## 🌟 Features
-
     - **Voice Command Recognition**: Interact with your computer using natural speech
     - **Chat Interface**: Type commands when voice input isn't preferred
     - **Application Management**: Open and control applications with simple commands
